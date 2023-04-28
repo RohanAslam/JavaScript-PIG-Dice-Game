@@ -62,6 +62,5 @@ Through building the PIG Dice Game, I've continued to expand my knowledge of Jav
 - Working with timers and animations
 - Responsive web design using CSS Grid
 
-Feel free to use this project as a reference or a starting point for creating your own PIG Dice Game. Any feedback or suggestions for improvement are more than welcome! :smiley:
 
 
